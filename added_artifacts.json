@@ -1,0 +1,18 @@
+{
+  "new_figures": [
+    "figure_22_entropy_scaling_laws.png",
+    "figure_23_decay_rate_comparison.png",
+    "figure_24_invariant_drift_diffusion_view.png",
+    "figure_25_invariant_llm_diffusion_view.png",
+    "figure_26_causal_entropy_decomposition.png",
+    "figure_27_causal_feasibility_decomposition.png",
+    "figure_28_component_feasibility_contribution.png"
+  ],
+  "new_tables": [
+    "scaling_laws_entropy_convergence.csv",
+    "dimensionless_invariant_regime_variables.csv",
+    "dimensionless_invariant_summary.csv",
+    "causal_operator_decomposition_timeseries.csv",
+    "causal_operator_decomposition_summary.csv"
+  ]
+}
