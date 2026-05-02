@@ -1,0 +1,15 @@
+,mean_value
+entropy_before,7.670181301020352
+entropy_after,7.17708464571432
+entropy_change,-0.4930966553060311
+infeasible_mass_before,0.478926829464026
+infeasible_mass_after,0.05363158426895157
+infeasible_mass_change,-0.42529524519507445
+idempotency_tv,0.12619696362659955
+expected_J_before,0.37509921869625035
+expected_J_after,0.2158212244870322
+expected_J_change,-0.15927799420921807
+sample_id,14.5
+contraction_ratio,0.9949169513202364
+dist_before,0.6456073086279077
+dist_after,0.6422728120460023

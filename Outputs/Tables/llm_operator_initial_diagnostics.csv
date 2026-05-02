@@ -1,0 +1,2 @@
+entropy_before,entropy_after,entropy_change,infeasible_mass_before,infeasible_mass_after,infeasible_mass_change,idempotency_tv,expected_J_before,expected_J_after,expected_J_change
+7.216017295607653,6.920690986189693,-0.2953263094179599,0.2960187100519966,0.04544930418344852,-0.2505694058685481,0.0816402389148598,0.4816846304924374,0.45375265309021073,-0.027931977402226693

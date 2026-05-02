@@ -1,0 +1,5 @@
+Model component,Meaning,Observable proxy,Notebook implementation
+"Drift field v(x,t)",Systematic preference movement,"Changes in user clicks, repeated visits, time-on-option, booking trajectory, trend shift",Designed vector field with sensitivity-tested magnitude
+Diffusion coefficient/tensor D,Decision uncertainty and inconsistency,"Choice variance, repeated-choice inconsistency, browsing dispersion, entropy of candidate set",Scalar D in 2D; sensitivity-tested across regimes
+Functional J(x),Cost--regret--uncertainty--constraint landscape,"Trip cost, mismatch between stated and selected preferences, infeasibility flags","Constructed prior with interpretable components C, R, U, P"
+LLM operator L,Constraint interpretation and policy shaping,"Feasibility correction, entropy reduction, contraction, idempotency",Composite operator L = P_C o S_lambda

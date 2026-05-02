@@ -1,0 +1,3 @@
+scenario,mean_energy_feasible,mean_energy_infeasible,energy_gap_infeasible_minus_feasible
+No LLM,9.252756983939934,13.881743675650442,4.628986691710509
+LLM-guided,26.448510873347967,27.299243270723316,0.8507323973753493
